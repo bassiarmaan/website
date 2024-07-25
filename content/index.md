@@ -13,23 +13,23 @@ Bruin Sports Analytics
 
 
 
-### Relevant Coursework
+# Relevant Coursework
 
-# Computer Science:
+### Computer Science:
 Object-Oriented Programming in C++ (CS 31)
 Data Structures in C++ (CS 32)
 
-# Math:
+### Math:
 Multivariable Calculus (MATH 32A/B)
 Linear Algebra and Applications (MATH 33A)
 
-# Statistics:
+### Statistics:
 Statistical Programming in R (STATS 20)
 
-# Science:
+### Science:
 Mechanics Physics (PHYSICS 1A)
 
-# Miscellaneous:
+### Miscellaneous:
 Intro to Latin American Music (ETHNOMUS M108A)
 Intro to Art of Filmmaking (FILM TV 4)
 
