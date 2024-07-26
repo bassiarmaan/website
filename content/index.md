@@ -7,13 +7,13 @@ I'm a CS student at UCLA who enjoys solving problems at the intersection of AI, 
 Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Security Company. At Quanergy, I am implementing and optimizing algorithms for real-time processing to enhance security surveillance capabilities. I am also developing documentation for software tools and workflows within the company. 
 
 
-### Clubs I'm Involved In At UCLA:
+## Clubs I'm Involved In At UCLA:
 - DataBlog (Data Analyst)
 - LAHacks (Hacker Operations and Experience Organizer for SoCal's Largest Hackathon)
 - Bruin Sports Analytics (D1 Tennis Consultant and Data Analyst)
 - Bruin Formula SAE Racing Team (Suspension and Data Analytics Team)
 
-# Relevant Coursework:
+## Relevant Coursework:
 
 ### Computer Science:
 
