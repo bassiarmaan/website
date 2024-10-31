@@ -14,31 +14,36 @@ Bachelors of Science in Computer Science (GPA: 3.9/4.0) <span style="float: righ
 
 LA Hacks (Hacker Operations Coordinator), Bruin Sports Analytics(Tennis Consultant), Creative Labs (Developer), Daily Bruin (Developer), Rock Climbing Club, Cubing Club, Intramural Flag Football
 
-### Millburn High School <span style="float: right;">2019-2023</span>
+### Millburn High School <span style="float: right;">2019 - 2023</span>
 High School Diploma (GPA: 4.22/4.0) <span style="float: right;">Millburn, NJ</span>
 
 Millburn Robotics (Captain), Librehacks (Co-founder), MHS Esports (Vice President), HackMHS (Logistics Lead), New Jersey Youth Symphony Percussionist, AI Club, Varsity Boys Track and Field
 
 ## relevant coursework 📝:
 
+<p>...</p>
 computer science:
 - 🛠️ computer organization in assembly (CS 33)
-* data structures and algorithims in C++ (CS 32)
-+ object-oriented programming in C++ (CS 31)
+- data structures and algorithims in C++ (CS 32)
+- object-oriented programming in C++ (CS 31)
 
+<p>...</p>
 math:
 - 🛠️ differential equations (MATH 33B)
-* linear algebra (MATH 33A)
-+ multivariable calculus (MATH 32A/B)
+- linear algebra (MATH 33A)
+- multivariable calculus (MATH 32A/B)
 
+<p>...</p>
 statistics:
 - 🛠️ statistics and probability (STATS 100A)
-* statistical programming in R (STATS 20)
+- statistical programming in R (STATS 20)
 
+<p>...</p>
 science:
 - 🛠️ physics mechanics lab (PHYSICS 4AL)
-* physics mechanics (PHYSICS 1A)
+- physics mechanics (PHYSICS 1A)
 
+<p>...</p>
 miscellaneous:
 - intro to latin american music (ETHNOMUS M108A)
-* intro to the art of filmmaking (FILM TV 4)
+- intro to the art of filmmaking (FILM TV 4)
