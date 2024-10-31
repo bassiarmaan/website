@@ -7,20 +7,21 @@ I'm a sophomore at UCLA studying Computer Science and Engineering who enjoys sol
 Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Security Company. At Quanergy, I am implementing and optimizing algorithms for real-time processing to enhance security surveillance capabilities. I am also developing documentation for software tools and workflows within the company. 
 
 
-## Clubs I'm Involved In At UCLA:
-- DataBlog (Data Analyst)
-- LAHacks (Hacker Operations and Experience Organizer for SoCal's Largest Hackathon)
-- Bruin Sports Analytics (D1 Tennis Consultant and Data Analyst)
-- Bruin Formula SAE Racing Team (Suspension and Data Analytics Team)
-
 
 ## education 🎓
-University of California - Los Angeles (UCLA) 🐻 <span style="float: right;">Los Angeles, CA</span>
+### University of California - Los Angeles (UCLA) 🐻 <span style="float: right;">Expected Graduation 2026</span>
 
-Bachelors of Science in Computer Science <span style="float: right;">Expected Graduation 2026</span>
+Bachelors of Science in Computer Science <span style="float: right;">Los Angeles, CA</span>
 (GPA: 3.9/4.0)
 
-LA Hacks (Hacker Operations Coordinator), Bruin Sports Analytics(D1 Tennis Consultant), Creative Labs (Backend + IOS Developer), The Daily Bruin (External Page Developer), Rock Climbing Club, Cubing Club, Intramural Flag Football
+LA Hacks (Hacker Operations Coordinator), Bruin Sports Analytics(Tennis Consultant), Creative Labs (Developer), Daily Bruin (Developer), Rock Climbing Club, Cubing Club, Intramural Flag Football
+
+### Millburn High School <span style="float: right;">2019-2023</span>
+
+High School Diploma <span style="float: right;">Millburn, NJ</span>
+(GPA: 4.22/4.0)
+
+Millburn Robotics (Captain), Librehacks (Co-founder), MHS Esports (Vice President), HackMHS (Logistics Lead), New Jersey Youth Symphony Percussionist, AI Club, Varsity Boys Track and Field
 
 ## relevant coursework 📝:
 
