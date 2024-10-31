@@ -10,15 +10,15 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 
 ## education 🎓
 ### University of California - Los Angeles (UCLA) 🐻 <span style="float: right;">Expected Graduation 2026</span>
-
 Bachelors of Science in Computer Science <span style="float: right;">Los Angeles, CA</span>
+
 (GPA: 3.9/4.0)
 
 LA Hacks (Hacker Operations Coordinator), Bruin Sports Analytics(Tennis Consultant), Creative Labs (Developer), Daily Bruin (Developer), Rock Climbing Club, Cubing Club, Intramural Flag Football
 
 ### Millburn High School <span style="float: right;">2019-2023</span>
-
 High School Diploma <span style="float: right;">Millburn, NJ</span>
+
 (GPA: 4.22/4.0)
 
 Millburn Robotics (Captain), Librehacks (Co-founder), MHS Esports (Vice President), HackMHS (Logistics Lead), New Jersey Youth Symphony Percussionist, AI Club, Varsity Boys Track and Field
