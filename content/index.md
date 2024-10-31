@@ -15,12 +15,9 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 
 
 ## education 🎓
-University of California - Los Angeles (UCLA) 🐻 <div align="right">Los Angeles, CA</div>
+University of California - Los Angeles (UCLA) 🐻 <span style="float: right;">Los Angeles, CA</span>
 
-Expected Graduation 2026
-Bachelors of Science in Computer Science
-
-
+Bachelors of Science in Computer Science <span style="float: right;">Expected Graduation 2026</span>
 (GPA: 3.9/4.0)
 
 LA Hacks (Hacker Operations Coordinator), Bruin Sports Analytics(D1 Tennis Consultant), Creative Labs (Backend + IOS Developer), The Daily Bruin (External Page Developer), Rock Climbing Club, Cubing Club, Intramural Flag Football
