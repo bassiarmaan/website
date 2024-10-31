@@ -15,7 +15,7 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 
 
 ## education 🎓
-University of California - Los Angeles (UCLA) 🐻 <div align="left">Los Angeles, CA</div>
+University of California - Los Angeles (UCLA) 🐻 <div align="right">Los Angeles, CA</div>
 
 Expected Graduation 2026
 Bachelors of Science in Computer Science
