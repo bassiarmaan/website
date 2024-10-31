@@ -13,27 +13,26 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 - Bruin Sports Analytics (D1 Tennis Consultant and Data Analyst)
 - Bruin Formula SAE Racing Team (Suspension and Data Analytics Team)
 
-## Relevant Coursework 📝:
+## relevant coursework 📝:
 
-### Computer Science:
-- 🛠️ Computer Organization in Assembly (CS 33)
-- Data Structures in C++ (CS 32)
-- Object-Oriented Programming in C++ (CS 31)
+computer science:
+- 🛠️ computer organization in assembly (CS 33)
+- data structures and algorithims in C++ (CS 32)
+- object-oriented programming in C++ (CS 31)
 
-### Math:
-- 🛠️ Differential Equations (MATH 33B)
-- Linear Algebra (MATH 33A)
-- Multivariable Calculus (MATH 32A/B)
+math:
+- 🛠️ differential equations (MATH 33B)
+- linear algebra (MATH 33A)
+- multivariable calculus (MATH 32A/B)
 
-### Statistics:
-- 🛠️ Statistics and Probability (STATS 100A)
-- Statistical Programming in R (STATS 20)
+statistics:
+- 🛠️ statistics and probability (STATS 100A)
+- statistical programming in R (STATS 20)
 
-### Science:
-- 🛠️ Physics Mechanics Lab (PHYSICS 4AL)
-- Physics Mechanics (PHYSICS 1A)
+science:
+- 🛠️ physics mechanics lab (PHYSICS 4AL)
+- physics mechanics (PHYSICS 1A)
 
-
-### Miscellaneous:
-- Intro to Latin American Music (ETHNOMUS M108A)
-- Intro to Art of Filmmaking (FILM TV 4)
+miscellaneous:
+- intro to latin american music (ETHNOMUS M108A)
+- intro to the art of filmmaking (FILM TV 4)
