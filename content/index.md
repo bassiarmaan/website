@@ -17,24 +17,24 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 
 ### Computer Science:
 
-- :hammer_and_wrench: Computer Organization in Assembly (CS 33)
+- 🛠️ Computer Organization in Assembly (CS 33)
 - Data Structures in C++ (CS 32)
 - Object-Oriented Programming in C++ (CS 31)
 
 ### Math:
 
-- :hammer_and_wrench: Differential Equations (MATH 33B)
+- 🛠️ Differential Equations (MATH 33B)
 - Linear Algebra (MATH 33A)
 - Multivariable Calculus (MATH 32A/B)
 
 ### Statistics:
 
-- :hammer_and_wrench: Statistics and Probability (STATS 100A)
+- 🛠️ Statistics and Probability (STATS 100A)
 - Statistical Programming in R (STATS 20)
 
 ### Science:
 
-- :hammer_and_wrench: Physics Mechanics Lab (PHYSICS 4AL)
+- 🛠️ Physics Mechanics Lab (PHYSICS 4AL)
 - Physics Mechanics (PHYSICS 1A)
 
 
