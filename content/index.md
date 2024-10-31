@@ -2,7 +2,7 @@
 title: Hi, I'm Armaan!
 ---
 
-I'm a CS student at UCLA who enjoys solving problems at the intersection of AI, robotics, and software.
+I'm a sophomore at UCLA studying Computer Science and Engineering who enjoys solving problems at the intersection of AI, robotics, and software.
 
 Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Security Company. At Quanergy, I am implementing and optimizing algorithms for real-time processing to enhance security surveillance capabilities. I am also developing documentation for software tools and workflows within the company. 
 
@@ -17,33 +17,28 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 
 ### Computer Science:
 
-- Object-Oriented Programming in C++ (CS 31)
+- :hammer_and_wrench: Computer Organization in Assembly (CS 33)
 - Data Structures in C++ (CS 32)
+- Object-Oriented Programming in C++ (CS 31)
 
 ### Math:
 
+- :hammer_and_wrench: Differential Equations (MATH 33B)
+- Linear Algebra (MATH 33A)
 - Multivariable Calculus (MATH 32A/B)
-- Linear Algebra and Applications (MATH 33A)
-
 
 ### Statistics:
 
+- :hammer_and_wrench: Statistics and Probability (STATS 100A)
 - Statistical Programming in R (STATS 20)
 
 ### Science:
 
-- Mechanics Physics (PHYSICS 1A)
+- :hammer_and_wrench: Physics Mechanics Lab (PHYSICS 4AL)
+- Physics Mechanics (PHYSICS 1A)
 
 
 ### Miscellaneous:
 
 - Intro to Latin American Music (ETHNOMUS M108A)
 - Intro to Art of Filmmaking (FILM TV 4)
-
-
-### Classes I Am Taking Next:
-
-- Differential Equations (MATH 33B)
-- Intro to Computer Organization (CS 33)
-- Mechanics Physics Lab (PHYSICS 4AL)
-- Statistics and Probability (STATS 100A)
