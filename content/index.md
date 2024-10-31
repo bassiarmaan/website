@@ -22,23 +22,23 @@ Millburn Robotics (Captain), Librehacks (Co-founder), MHS Esports (Vice Presiden
 ## relevant coursework 📝:
 
 computer science:
-- 🛠️ computer organization in assembly (CS 33)
-- data structures and algorithims in C++ (CS 32)
-- object-oriented programming in C++ (CS 31)
+    - 🛠️ computer organization in assembly (CS 33)
+    - data structures and algorithims in C++ (CS 32)
+    - object-oriented programming in C++ (CS 31)
 
 math:
-- 🛠️ differential equations (MATH 33B)
-- linear algebra (MATH 33A)
-- multivariable calculus (MATH 32A/B)
+    - 🛠️ differential equations (MATH 33B)
+    - linear algebra (MATH 33A)
+    - multivariable calculus (MATH 32A/B)
 
 statistics:
-- 🛠️ statistics and probability (STATS 100A)
-- statistical programming in R (STATS 20)
+    - 🛠️ statistics and probability (STATS 100A)
+    - statistical programming in R (STATS 20)
 
 science:
-- 🛠️ physics mechanics lab (PHYSICS 4AL)
-- physics mechanics (PHYSICS 1A)
+    - 🛠️ physics mechanics lab (PHYSICS 4AL)
+    - physics mechanics (PHYSICS 1A)
 
 miscellaneous:
-- intro to latin american music (ETHNOMUS M108A)
-- intro to the art of filmmaking (FILM TV 4)
+    - intro to latin american music (ETHNOMUS M108A)
+    - intro to the art of filmmaking (FILM TV 4)
