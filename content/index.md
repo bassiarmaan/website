@@ -13,6 +13,18 @@ Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Se
 - Bruin Sports Analytics (D1 Tennis Consultant and Data Analyst)
 - Bruin Formula SAE Racing Team (Suspension and Data Analytics Team)
 
+
+## education 🎓
+University of California - Los Angeles (UCLA) 🐻 <div align="Los Angeles, CA"></div>
+
+Expected Graduation 2026
+Bachelors of Science in Computer Science
+
+
+(GPA: 3.9/4.0)
+
+LA Hacks (Hacker Operations Coordinator), Bruin Sports Analytics(D1 Tennis Consultant), Creative Labs (Backend + IOS Developer), The Daily Bruin (External Page Developer), Rock Climbing Club, Cubing Club, Intramural Flag Football
+
 ## relevant coursework 📝:
 
 computer science:
