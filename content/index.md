@@ -20,25 +20,24 @@ High School Diploma (GPA: 4.22/4.0) <span style="float: right;">Millburn, NJ</sp
 Millburn Robotics (Captain), Librehacks (Co-founder), MHS Esports (Vice President), HackMHS (Logistics Lead), New Jersey Youth Symphony Percussionist, AI Club, Varsity Boys Track and Field
 
 ## relevant coursework 📝:
-
-computer science:
+* computer science:
     - 🛠️ computer organization in assembly (CS 33)
     - data structures and algorithims in C++ (CS 32)
     - object-oriented programming in C++ (CS 31)
 
-math:
+* math:
     - 🛠️ differential equations (MATH 33B)
     - linear algebra (MATH 33A)
     - multivariable calculus (MATH 32A/B)
 
-statistics:
+* statistics:
     - 🛠️ statistics and probability (STATS 100A)
     - statistical programming in R (STATS 20)
 
-science:
+* science:
     - 🛠️ physics mechanics lab (PHYSICS 4AL)
     - physics mechanics (PHYSICS 1A)
 
-miscellaneous:
+* miscellaneous:
     - intro to latin american music (ETHNOMUS M108A)
     - intro to the art of filmmaking (FILM TV 4)
