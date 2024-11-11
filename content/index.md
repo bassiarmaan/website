@@ -2,18 +2,35 @@
 title: hi, i'm armaan 👋
 ---
 
-> i'm an undergraduate student at UCLA studying computer science and electrical engineering 👨‍💻⚡
-
 ---
+
+<img src="ArmaanBassi_Headshot.png" alt="Armaan Bassi Headshot" width="300" style="float: left; margin-right: 15px;"/>
+
+<span style="font-size: 1.5em; font-weight: bold;">I'm an undergraduate student at UCLA studying computer science and electrical engineering ⚡</span>
 
 currently i am seeking internships related to technology, however all opportunities are greatly appreciated!
 
-feel free to reach out via any of my provided socials!
+---
 
-I'm a sophomore at UCLA studying Computer Science and Engineering who enjoys solving problems at the intersection of AI, robotics, and software.
+## connect with me
 
-Currently I'm a Software Engineering Intern at Quanergy Solutions, a 3D LiDAR Security Company. At Quanergy, I am implementing and optimizing algorithms for real-time processing to enhance security surveillance capabilities. I am also developing documentation for software tools and workflows within the company. 
+<p align="center">
+  <a href="mailto:armalbassi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333&color=000000&labelWidth=80" alt="Email" style="border: 1px solid white; padding: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://github.com/bassiarmaan" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white&labelColor=333&color=000000&labelWidth=80" alt="GitHub" style="border: 1px solid white; padding: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/armaanbassi/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333&color=000000&labelWidth=80" alt="LinkedIn" style="border: 1px solid white; padding: 5px; border-radius: 5px;">
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-333?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=333&color=000000&labelWidth=80" alt="Resume" style="border: 1px solid white; padding: 5px; border-radius: 5px;">
+  </a>
+</p>
 
-i love listening to music: my top artists are Don Toliver, Tyler the Creator, Beabadoobee, and Laufey! 
+---
+
 here's what I have been listening to recently:
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=armaanbassi)
