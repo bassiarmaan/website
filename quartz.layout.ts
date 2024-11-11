@@ -9,18 +9,18 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/bassiarmaan",
-      "LinkdIn": "https://www.linkedin.com/in/armaanbassi/",
-      "Devpost": "https://devpost.com/M13cr0Ft"
+      LinkdIn: "https://www.linkedin.com/in/armaanbassi/",
+      Devpost: "https://devpost.com/M13cr0Ft"
     },
   }),
 }
+
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -28,12 +28,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+
+    Component.RecentNotes({
+      title: "more about me",
+      filter: (f) =>
+        f.slug!.startsWith("experience/") 
+    }),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 
@@ -45,7 +47,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }
